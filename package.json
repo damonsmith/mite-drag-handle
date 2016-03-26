@@ -1,0 +1,13 @@
+{
+  "name": "mite-drag-handle",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "license" : "GPL-3.0",
+  "files": ["index.js"],
+  "repository" :{
+	  "type" : "git",
+	  "url" : "https://github.com/damonsmith/mite-drag-handle.git"
+  }
+}
